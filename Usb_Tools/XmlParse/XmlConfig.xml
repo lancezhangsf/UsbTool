@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Disks>
+  <Disk>
+    <BackBoard>1</BackBoard>
+    <PortNum>2</PortNum>
+    <PCB>15215215</PCB>
+    <SN>22222222222</SN>
+    <MN>1111111111</MN>
+    <WWN>33333333</WWN>
+  </Disk>
+  <Disk>
+    <BackBoard>1</BackBoard>
+    <PortNum>2</PortNum>
+    <PCB>15215215</PCB>
+    <SN>22222222222</SN>
+    <MN>1111111111</MN>
+    <WWN>33333333</WWN>
+  </Disk>
+  <Disk>
+    <BackBoard>1</BackBoard>
+    <PortNum>2</PortNum>
+    <PCB>15215215</PCB>
+    <SN>22222222222</SN>
+    <MN>1111111111</MN>
+    <WWN>33333333</WWN>
+  </Disk>
+</Disks>

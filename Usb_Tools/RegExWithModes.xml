@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BackBoards>
+    <BackBoard>
+        <DeviceName>1</DeviceName>
+        <Voltage>05</Voltage>
+        <Open>1111</Open>
+        <Close>0000</Close>
+    </BackBoard>
+</BackBoards>

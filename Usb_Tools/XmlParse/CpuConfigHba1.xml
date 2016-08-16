@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Disks>
+  <Disk>
+    <BackBoard>0</BackBoard>
+    <PortNum>1</PortNum>
+    <PCB>
+    </PCB>
+    <SN>
+    </SN>
+    <MN>
+    </MN>
+    <WWN>
+    </WWN>
+    <SCSINum>
+    </SCSINum>
+    <SASNum>
+    </SASNum>
+    <Name>
+    </Name>
+    <DiskType>
+    </DiskType>
+  </Disk>
+  <Disk>
+    <BackBoard>0</BackBoard>
+    <PortNum>2</PortNum>
+    <PCB>
+    </PCB>
+    <SN>
+    </SN>
+    <MN>
+    </MN>
+    <WWN>
+    </WWN>
+    <SCSINum>
+    </SCSINum>
+    <SASNum>
+    </SASNum>
+    <Name>
+    </Name>
+    <DiskType>
+    </DiskType>
+  </Disk>
+  <Disk>
+    <BackBoard>0</BackBoard>
+    <PortNum>3</PortNum>
+    <PCB>
+    </PCB>
+    <SN>
+    </SN>
+    <MN>
+    </MN>
+    <WWN>
+    </WWN>
+    <SCSINum>
+    </SCSINum>
+    <SASNum>
+    </SASNum>
+    <Name>
+    </Name>
+    <DiskType>
+    </DiskType>
+  </Disk>
+  <Disk>
+    <BackBoard>0</BackBoard>
+    <PortNum>4</PortNum>
+    <PCB> </PCB>
+    <SN> </SN>
+    <MN> </MN>
+    <WWN> </WWN>
+    <SCSINum> </SCSINum>
+    <SASNum> </SASNum>
+    <Name> </Name>
+    <DiskType> </DiskType>
+  </Disk>
+</Disks>

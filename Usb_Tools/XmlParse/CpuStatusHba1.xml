@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<Disks>
+    <Disk>
+        <BackBooard>0</BackBooard>
+        <PortNum>1</PortNum>
+        <DiskConnect>yes</DiskConnect>
+        <DiskMatch>1</DiskMatch>
+        <TestBegin>2</TestBegin>
+        <ReadPCBSN>23</ReadPCBSN>
+        <WritePCBSN />
+        <DDRInitTest />
+        <DDRpintest />
+        <ReadSliceConfig />
+        <NorFlashTest />
+        <WriteSN />
+        <WriteMN />
+        <NANDCEpintest />
+        <NFTInitTest />
+        <CapOpenTest />
+        <ReadOBB />
+        <WriteOBBandinittables />
+        <DownLoadLoader />
+        <DownLoadFirmware />
+        <FTTestResult />
+        <STDWPdTest />
+        <STDWTestResult />
+        <STCWPMWRTest>pass</STCWPMWRTest>
+        <STCWPMRDTest />
+        <STCWPMTest />
+        <STCWTest />
+        <STGWPDTest />
+        <STGWDCTest />
+        <STGWTest />
+        <STTestResult />
+        <TestOver />
+    </Disk>
+    <Disk>
+        <BackBooard>0</BackBooard>
+        <PortNum>2</PortNum>
+        <DiskConnect />
+        <DiskMatch />
+        <TestBegin />
+        <ReadPCBSN>23</ReadPCBSN>
+        <WritePCBSN />
+        <DDRInitTest />
+        <DDRpintest />
+        <ReadSliceConfig />
+        <NorFlashTest />
+        <WriteSN />
+        <WriteMN />
+        <NANDCEpintest />
+        <NFTInitTest />
+        <CapOpenTest />
+        <ReadOBB />
+        <WriteOBBandinittables>23</WriteOBBandinittables>
+        <DownLoadLoader />
+        <DownLoadFirmware />
+        <FTTestResult />
+        <STDWPdTest />
+        <STDWTestResult />
+        <STCWPMWRTest />
+        <STCWPMRDTest />
+        <STCWPMTest />
+        <STCWTest />
+        <STGWPDTest />
+        <STGWDCTest />
+        <STGWTest />
+        <STTestResult />
+        <TestOver />
+    </Disk>
+    <Disk>
+        <BackBooard>0</BackBooard>
+        <PortNum>3</PortNum>
+        <DiskConnect />
+        <DiskMatch />
+        <TestBegin />
+        <ReadPCBSN>23</ReadPCBSN>
+        <WritePCBSN />
+        <DDRInitTest />
+        <DDRpintest />
+        <ReadSliceConfig />
+        <NorFlashTest />
+        <WriteSN />
+        <WriteMN />
+        <NANDCEpintest />
+        <NFTInitTest />
+        <CapOpenTest />
+        <ReadOBB />
+        <WriteOBBandinittables />
+        <DownLoadLoader />
+        <DownLoadFirmware />
+        <FTTestResult />
+        <STDWPdTest />
+        <STDWTestResult />
+        <STCWPMWRTest />
+        <STCWPMRDTest />
+        <STCWPMTest />
+        <STCWTest />
+        <STGWPDTest />
+        <STGWDCTest />
+        <STGWTest />
+        <STTestResult />
+        <TestOver />
+    </Disk>
+    <Disk>
+        <BackBooard>0</BackBooard>
+        <PortNum>4</PortNum>
+        <DiskConnect />
+        <DiskMatch />
+        <TestBegin />
+        <ReadPCBSN>23</ReadPCBSN>
+        <WritePCBSN />
+        <DDRInitTest />
+        <DDRpintest />
+        <ReadSliceConfig />
+        <NorFlashTest />
+        <WriteSN />
+        <WriteMN />
+        <NANDCEpintest />
+        <NFTInitTest />
+        <CapOpenTest />
+        <ReadOBB />
+        <WriteOBBandinittables>23</WriteOBBandinittables>
+        <DownLoadLoader />
+        <DownLoadFirmware />
+        <FTTestResult />
+        <STDWPdTest />
+        <STDWTestResult />
+        <STCWPMWRTest />
+        <STCWPMRDTest />
+        <STCWPMTest />
+        <STCWTest />
+        <STGWPDTest />
+        <STGWDCTest />
+        <STGWTest />
+        <STTestResult />
+        <TestOver />
+    </Disk>
+</Disks>
